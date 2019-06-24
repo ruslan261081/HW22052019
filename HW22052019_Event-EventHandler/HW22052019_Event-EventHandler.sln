@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW22052019_Event-EventHandler", "HW22052019_Event-EventHandler\HW22052019_Event-EventHandler.csproj", "{9A62E4C9-BCB5-473C-B25F-D471902C3450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A62E4C9-BCB5-473C-B25F-D471902C3450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A62E4C9-BCB5-473C-B25F-D471902C3450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A62E4C9-BCB5-473C-B25F-D471902C3450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A62E4C9-BCB5-473C-B25F-D471902C3450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7E879D8-C52B-4B04-A6E6-CB79F7E97A76}
+	EndGlobalSection
+EndGlobal

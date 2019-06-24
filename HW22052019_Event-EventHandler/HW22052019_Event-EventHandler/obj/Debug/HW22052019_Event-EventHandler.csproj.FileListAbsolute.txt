@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\HW22052019_Event-EventHandler\HW22052019_Event-EventHandler\obj\Debug\HW22052019_Event-EventHandler.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\HW22052019_Event-EventHandler\HW22052019_Event-EventHandler\obj\Debug\HW22052019_Event-EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\HW22052019_Event-EventHandler\HW22052019_Event-EventHandler\bin\Debug\HW22052019_Event-EventHandler.exe.config
+C:\Users\rosla\source\repos\HW22052019_Event-EventHandler\HW22052019_Event-EventHandler\bin\Debug\HW22052019_Event-EventHandler.exe
+C:\Users\rosla\source\repos\HW22052019_Event-EventHandler\HW22052019_Event-EventHandler\bin\Debug\HW22052019_Event-EventHandler.pdb
+C:\Users\rosla\source\repos\HW22052019_Event-EventHandler\HW22052019_Event-EventHandler\obj\Debug\HW22052019_Event-EventHandler.exe
+C:\Users\rosla\source\repos\HW22052019_Event-EventHandler\HW22052019_Event-EventHandler\obj\Debug\HW22052019_Event-EventHandler.pdb
